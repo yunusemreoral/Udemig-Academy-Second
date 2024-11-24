@@ -13,7 +13,7 @@
 <li>Responsive Design</li>
 
 # Ekran Görüntüsü 🎥
-<img src="" width="auto">
+<img src="udemig-academy-second.gif" width="auto">
 
 # İletişim 📩
 yunusemreoral@hotmail.com.tr
