@@ -1,4 +1,4 @@
-# Udemig Academy Second
+# Udemig Academy Second 🧑‍💻
 <li>Bu proje HTML5,CSS3 ve BootStrap ile oluşturulmuş Yazılım Eğitimi site arayüzü içerir.</li>
 <li>Zengin içeriği,kolay ve modern yapısıyla yazılım eğitimi almak isteyenlerin beğenisine sunulmuştur.</li>
 <li>Menüsü,müşteri yorumları,sosyal medya hesapları,konum ve iletişim bilgisi ile akıllardaki soruları çözüm sunar.</li>
